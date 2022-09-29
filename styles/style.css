@@ -1,7 +1,25 @@
 *
 {
-    background-color: #A91079;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #A91079;
+}
+.clock
+{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("/images/clock_7.png");
+    background-size: cover;
+    border:4px solid  #A91079;
+
 }
