@@ -13,12 +13,12 @@ body {
 }
 .clock
 {
-    width: 550px;
-    height: 550px;
+    /* width: 550px;
+    height: 550px; */
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(/images/clock_7.png);
+    /* background: url(/images/clock_7.png); */
     background-size: cover;
     border:50px solid  #A91079;
     border-radius: 30%;
@@ -37,3 +37,12 @@ body {
     border-radius: 50%;
     z-index: 10000;
 } 
+
+.clock::after
+{
+    content: '';
+}
+
+img {
+
+}
