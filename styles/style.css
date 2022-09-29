@@ -30,8 +30,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background: url(/images/clock_7.png); */
-
 }
 .clock::before
 {
