@@ -20,8 +20,8 @@ This project can be installed by clone this repository and opening it in a brows
 ---
 User can use this clock to see the current time in the central standard time zone.
 
-![Clock](./images/final_clock.png)
-![Clock](./images/Minimalist_Clock.gif)
+![Clock](./assets/final_clock.png)
+![Clock](./assets/Minimalist_Clock.gif)
 
 ## Contributing
 ---
