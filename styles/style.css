@@ -13,17 +13,27 @@ body {
 }
 .clock
 {
-    width: 350px;
-    height: 350px;
+    width: 550px;
+    height: 550px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("/images/clock_7.png");
+    background: url(/images/clock_7.png);
     background-size: cover;
-    border:4px solid  #A91079;
-    border-radius: 25%;
+    border:50px solid  #A91079;
+    border-radius: 30%;
     box-shadow: 0 -15px 15px rgba(255, 255, 255, 0.05),
         0 -15px 15px rgba(255, 255, 255, 0.05),
         0 15px 15px rgba(0, 0, 0, .3),
         0 15px 15px rgba(0, 0, 0, .3);
 }
+.clock::before
+{
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background: #000;
+    border-radius: 50%;
+    z-index: 10000;
+} 
