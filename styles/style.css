@@ -13,17 +13,11 @@ body {
 }
 .clock
 {
-
     display: flex;
     justify-content: center;
     align-items: center;
     /* background: url(/images/clock_7.png); */
-    background-size: cover;
-    border:50px solid  #A91079;
-    box-shadow: 0 -15px 15px rgba(255, 255, 255, 0.05),
-        0 -15px 15px rgba(255, 255, 255, 0.05),
-        0 15px 15px rgba(0, 0, 0, .3),
-        0 15px 15px rgba(0, 0, 0, .3);
+
 }
 .clock::before
 {
@@ -45,4 +39,11 @@ img {
     width: 450px;
     height: 450px;
     border-radius: 30%;
+    background-size: cover;
+    border:50px solid  #A91079;
+    box-shadow: 
+    0 -15px 15px rgba(255, 255, 255, 0.05),
+    0 -15px 15px rgba(255, 255, 255, 0.05),
+    0 15px 15px rgba(0, 0, 0, .3),
+    0 15px 15px rgba(0, 0, 0, .3);
 }
