@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #A91079;
+    background-color: #006242;
 }
 .clock
 {
@@ -40,7 +40,7 @@ img {
     height: 450px;
     border-radius: 30%;
     background-size: cover;
-    border:50px solid  #A91079;
+    border:50px solid  #006242;
     box-shadow: 
     0 -15px 15px rgba(255, 255, 255, 0.05),
     0 -15px 15px rgba(255, 255, 255, 0.05),
