@@ -12,6 +12,11 @@ This is a simple clock application that shows the current time.
 * [Questions](#questions)
 * [License](#license)
 
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+
 
 ## Installation
 
