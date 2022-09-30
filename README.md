@@ -32,7 +32,11 @@ There are no tests for this project.
 
 ## Questions
 
-If you have any questions, feel free to contact me by using the provided information below [JoyUmoekpo] (https://github.com/joyumoekpo) joyumoekpo1@gmail.com
+If you have any questions, feel free to contact me by using the information listed below:
+
+[JoyUmoekpo] (https://github.com/joyumoekpo)
+ 
+ joyumoekpo1@gmail.com
 
 ## License
 
