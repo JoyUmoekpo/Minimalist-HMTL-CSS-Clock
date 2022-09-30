@@ -5,6 +5,7 @@
 This is a simple clock application that shows the current time.
 ## Table of Contents
 
+* [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
