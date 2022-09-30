@@ -1,10 +1,10 @@
 # Minimalist-HMTL-CSS-Clock
 
 ## Description 
----
+
 This is a simple clock application that shows the current time.
 ## Table of Contents
----
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -14,28 +14,28 @@ This is a simple clock application that shows the current time.
 
 
 ## Installation
----
+
 This project can be installed by clone this repository and opening it in a browser window.
 ## Usage 
----
+
 User can use this clock to see the current time in the central standard time zone.
 
 ![Clock](./assets/final_clock.png)
 ![Clock](./assets/minimalist_clock.gif)
 
 ## Contributing
----
+
 I am the sole author of this project and anyone can contribute by contacting me.
 ## Tests
----
+
 There are no tests for this project.
 
 ## Questions
----
+
 If you have any questions, feel free to contact me by using the provided information below [JoyUmoekpo] (https://github.com/joyumoekpo) joyumoekpo1@gmail.com
 
 ## License
----
+
 ### MIT License
 
 ```
