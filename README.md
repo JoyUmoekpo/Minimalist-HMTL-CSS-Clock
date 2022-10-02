@@ -18,7 +18,6 @@ This is a simple clock application that shows the current time.
 * CSS
 * JavaScript
 
-
 ## Installation
 
 This project can be installed by clone this repository and opening it in a browser window.
