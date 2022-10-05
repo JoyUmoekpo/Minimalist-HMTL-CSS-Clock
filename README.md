@@ -6,7 +6,7 @@ This is a simple clock application that shows the current time.
 ## Table of Contents
 
 * [Technologies Used](#technologies-used)
-* [Installation](#installation)
+* [Deployed Link](#deployed-link)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -18,7 +18,7 @@ This is a simple clock application that shows the current time.
 * CSS
 * JavaScript
 
-## Installation
+## Deployed Link
 
 This application is hosted on the netlify environment: [Minimalist Clock Site](https://minimalist-clock-site.netlify.app/)
 
