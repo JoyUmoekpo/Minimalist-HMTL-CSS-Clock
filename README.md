@@ -20,7 +20,10 @@ This is a simple clock application that shows the current time.
 
 ## Installation
 
-This project can be installed by clone this repository and opening it in a browser window.
+This application is hosted on the netlify environment: [Minimalist Clock Site](https://minimalist-clock-site.netlify.app/)
+
+This is the repository link for this application: [Minimalist Clock Site Repository](https://github.com/JoyUmoekpo/Minimalist-HMTL-CSS-Clock)
+
 ## Usage 
 
 User can use this clock to see the current time in the central standard time zone.
