@@ -6,7 +6,7 @@
 
 ## Description 
 
-This is a simple clock application that shows the current time.
+This is a simple clock application that shows the current time. Users can use this clock to see the time in the central standard time zone.
 ## Table of Contents
 
 * [Technologies Used](#technologies-used)
