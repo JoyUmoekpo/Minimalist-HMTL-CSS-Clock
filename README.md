@@ -11,7 +11,7 @@ This is a simple clock application that shows the current time.
 
 * [Technologies Used](#technologies-used)
 * [Deployed Link](#deployed-link)
-* [Usage](#usage)
+* [Application Images](#application-images)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -24,38 +24,33 @@ This is a simple clock application that shows the current time.
 
 ## Deployed Link
 
-This application is hosted on the netlify environment: [Minimalist Clock Site](https://minimalist-clock-site.netlify.app/)
+* This application is hosted on the netlify environment: [Minimalist Clock Site](https://minimalist-clock-site.netlify.app/)
+* This is the repository link for this application: [Minimalist Clock Site Repository](https://github.com/JoyUmoekpo/Minimalist-HMTL-CSS-Clock)
 
-This is the repository link for this application: [Minimalist Clock Site Repository](https://github.com/JoyUmoekpo/Minimalist-HMTL-CSS-Clock)
-
-## Usage 
-
-User can use this clock to see the current time in the central standard time zone.
-
+## Application Image(s) 
 ![Clock](./assets/final_clock.png)
 ![Clock](./assets/minimalist_clock.gif)
 
 ## Contributing
 
-I am the sole author of this project and anyone can contribute by contacting me.
+* I am the sole author of this project and anyone can contribute by contacting me.
 ## Tests
 
-There are no tests for this project.
+* There are no tests for this project.
 
 ## Questions
 
 If you have any questions, feel free to contact me by using the information listed below:
 
-[JoyUmoekpo] (https://github.com/joyumoekpo)
- 
- joyumoekpo1@gmail.com
+* Github: https://github.com/joyumoekpo
+* Email: joyumoekpo1@gmail.com
 
 ## License
 
 ### MIT License
 
 ```
-Copyright (c) [2022] [JoyUmoekpo]
+Copyright (c) [*2022] JoyUmoekpo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
