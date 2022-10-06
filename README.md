@@ -1,8 +1,9 @@
 # Minimalist-HMTL-CSS-Clock
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da8c732c-70d6-4f07-a8ac-94110682a2e6/deploy-status)](https://app.netlify.com/sites/minimalist-clock-site/deploys)
 ![GitHub latest commit](https://img.shields.io/github/last-commit/JoyUmoekpo/Minimalist-HMTL-CSS-Clock)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da8c732c-70d6-4f07-a8ac-94110682a2e6/deploy-status)](https://app.netlify.com/sites/minimalist-clock-site/deploys)
+
 ## Description 
 
 This is a simple clock application that shows the current time.
